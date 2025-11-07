@@ -1,0 +1,6 @@
+﻿  HEX.cpp
+C:\Users\ПК\source\repos\HEX\HEX.cpp(10,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ПК\source\repos\HEX\HEX.cpp(111,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ПК\source\repos\HEX\HEX.cpp(120,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ПК\source\repos\HEX\HEX.cpp(129,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HEX.vcxproj -> C:\Users\ПК\source\repos\HEX\x64\Debug\HEX.exe
