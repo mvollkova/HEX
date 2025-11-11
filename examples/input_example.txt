@@ -1,0 +1,178 @@
+Wejście/Input
+
+ ---
+<   >
+ ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+    ---
+ --<   >--
+<   >-<   >
+ --<   >--
+    ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+    ---
+ --< r >--
+<   >-<   >
+ --<   >--
+    ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+    ---
+ --< b >--
+<   >-< r >
+ --<   >--
+    ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+    ---
+ --< r >--
+< r >-< b >
+ --<   >--
+    ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+
+       ---
+    --<   >--
+ --< b >-<   >--
+< b >-< r >-<   >
+ --< r >-<   >--
+    --< r >--
+       ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+       ---
+    --<   >--
+ --< b >-< b >--
+< r >-< r >-<   >
+ --< r >-<   >--
+    --<   >--
+       ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+       ---
+    --<   >--
+ --<   >-< b >--
+<   >-< r >-< b >
+ --< r >-< b >--
+    --< r >--
+       ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+          ---
+       --< b >--
+    --< r >-< b >--
+ --< r >-< r >-< b >--
+< b >-< b >-< r >-< b >
+ --< r >-< b >-< b >--
+    --< r >-< r >--
+       --< r >--
+          ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
+
+                               ---
+                            --<   >--
+                         --<   >-<   >--
+                      --<   >-<   >-<   >--
+                   --< r >-<   >-<   >-< b >--
+                --<   >-<   >-<   >-<   >-<   >--
+             --<   >-< r >-<   >-<   >-< b >-<   >--
+          --<   >-<   >-< r >-<   >-< b >-<   >-<   >--
+       --<   >-<   >-<   >-< r >-< b >-<   >-<   >-<   >--
+    --<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >--
+ --<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >--
+<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >-<   >
+ --<   >-<   >-<   >-<   >-< b >-< r >-<   >-<   >-<   >-<   >--
+    --<   >-<   >-<   >-< b >-<   >-<   >-<   >-<   >-<   >--
+       --<   >-<   >-<   >-<   >-< r >-<   >-<   >-<   >--
+          --<   >-<   >-< b >-<   >-< r >-<   >-<   >--
+             --<   >-<   >-<   >-<   >-<   >-<   >--
+                --<   >-< b >-<   >-< r >-<   >--
+                   --< b >-<   >-<   >-< r >--
+                      --<   >-<   >-<   >--
+                         --<   >-<   >--
+                            --<   >--
+                               ---
+BOARD_SIZE
+
+PAWNS_NUMBER
+
+IS_BOARD_CORRECT
+
+IS_GAME_OVER
+
+IS_BOARD_POSSIBLE
