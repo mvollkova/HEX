@@ -1,7 +1,7 @@
 # HEX GAME
 The classic variant of the game Hex is played on an 11 x 11 hexagonal board.
 
-![Hex board (11×11) placeholder](examples/board.png)
+![Hex board (11×11) placeholder](examples/Board.png)
 
 ## Overview
 
